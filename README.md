@@ -14,3 +14,17 @@ with the help of Long short-term memory(LSTM model training method).
 ### Technologies Used :
 for this project, I primarily utilized the following tools and technologies: Python for data preprocessing, manipulation, visualization, and model implementation.
 Jupyter Notebook as the coding environment for interactive development. Keras library to build and train the LSTM model.
+
+## Task-2
+Titanic Classification :
+Make a system which tells whether the person will be
+save from sinking. What factors were
+most likely lead to success-socio-economic
+status, age, gender and more.
+
+In these task the data we have used is taking from kaggle :(https://www.kaggle.com/competitions/titanic/data?select=train.csv)
+These is the link of data used, I have taken the data of Titanic Classification and represent the accuracy and confuson matrix
+with the help of Machine Learning.
+Accuracy : 0.7835820895522388
+
+
